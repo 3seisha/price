@@ -12,13 +12,3 @@
 - 入力エラーチェックとユーザーフレンドリーなエラーメッセージ
 - GUIによる直感的な操作
 
-## インストール方法
-
-1. Python 3.x をインストールしてください。
-2. TkinterはPythonに標準で含まれているため、追加インストールは不要です。
-3. このリポジトリをクローンまたはZIPでダウンロードしてください。
-
-```bash
-git clone https://github.com/your-username/selling-price-calculator.git
-cd selling-price-calculator
-python main.py
